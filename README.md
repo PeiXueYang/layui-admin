@@ -1,3 +1,3 @@
-# haiyitongjs
+# layui-admin
 
-海易通结算中心
+一个专注于 后台管理的操作系统。
